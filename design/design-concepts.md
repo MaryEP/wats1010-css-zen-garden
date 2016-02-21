@@ -11,6 +11,7 @@ Much of the written content will be incorporated with the valentine images.
 
 In the attached wireframe, I laid out sections and then outlined the image areas in green and the text areas in blue to make 
 sure they were evenly distributed on the page.
+I hope to invoke a sense of fun and playfulness to keep the reader on the site, read the text, and click on the links.
 
 Influences:
 
